@@ -4,7 +4,7 @@
  */
 import React from 'react';
 import {useState} from 'react';
-import Search from './search';
+import Search from './search/search';
 
 const Menu = () => {
 
