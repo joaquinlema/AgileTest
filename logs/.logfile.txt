@@ -1,0 +1,129 @@
+:::: Log File ::::
+
+
+[29/5/2021 -- 18:55]  Info task started
+[29/5/2021 -- 19:8]  Info task started
+[29/5/2021 -- 19:11]  Info task started
+[29/5/2021 -- 19:39]  restarted!
+[29/5/2021 -- 19:39]  restarted!
+[29/5/2021 -- 19:40]  restarted!
+[29/5/2021 -- 19:47]  Scripts ran on main.js
+[29/5/2021 -- 19:53]  Info task started
+[29/5/2021 -- 19:54]  Scripts ran on main.js
+[29/5/2021 -- 19:57]  Scripts ran on main.js
+[29/5/2021 -- 20:1]  Scripts ran on main.js
+[29/5/2021 -- 20:3]  Scripts ran on main.js
+[29/5/2021 -- 20:6]  restarted!
+[29/5/2021 -- 20:7]  Scripts ran on main.js
+[29/5/2021 -- 20:9]  restarted!
+[29/5/2021 -- 20:9]  restarted!
+[29/5/2021 -- 20:9]  Scripts ran on main.js
+[29/5/2021 -- 20:15]  restarted!
+[29/5/2021 -- 20:15]  Scripts ran on main.js
+[29/5/2021 -- 20:16]  Scripts ran on main.js
+[29/5/2021 -- 20:20]  restarted!
+[29/5/2021 -- 20:21]  Scripts ran on main.js
+[29/5/2021 -- 20:21]  Scripts ran on main.js
+[29/5/2021 -- 20:26]  Scripts ran on main.js
+[29/5/2021 -- 20:32]  Scripts ran on main.js
+[29/5/2021 -- 20:33]  Scripts ran on main.js
+[29/5/2021 -- 20:33]  Scripts ran on main.js
+[29/5/2021 -- 20:34]  Scripts ran on main.js
+[29/5/2021 -- 20:34]  Scripts ran on main.js
+[29/5/2021 -- 20:35]  Scripts ran on main.js
+[29/5/2021 -- 20:42]  Scripts ran on main.js
+[29/5/2021 -- 20:45]  Scripts ran on main.js
+[29/5/2021 -- 20:45]  Scripts ran on main.js
+[29/5/2021 -- 20:46]  Scripts ran on main.js
+[29/5/2021 -- 20:47]  Scripts ran on main.js
+[29/5/2021 -- 20:58]  Scripts ran on main.js
+[29/5/2021 -- 21:11]  restarted!
+[29/5/2021 -- 21:11]  Scripts ran on main.js
+[29/5/2021 -- 21:11]  restarted!
+[29/5/2021 -- 21:23]  restarted!
+[29/5/2021 -- 21:23]  Scripts ran on main.js
+[29/5/2021 -- 21:23]  Scripts ran on main.js
+[29/5/2021 -- 21:26]  restarted!
+[29/5/2021 -- 21:26]  restarted!
+[29/5/2021 -- 21:28]  restarted!
+[29/5/2021 -- 21:28]  Scripts ran on main.js
+[29/5/2021 -- 21:34]  restarted!
+[29/5/2021 -- 21:35]  restarted!
+[29/5/2021 -- 21:38]  restarted!
+[29/5/2021 -- 21:38]  Scripts ran on main.js
+[29/5/2021 -- 21:38]  restarted!
+[29/5/2021 -- 21:38]  restarted!
+[29/5/2021 -- 21:41]  restarted!
+[29/5/2021 -- 21:41]  Scripts ran on main.js
+[29/5/2021 -- 21:42]  Scripts ran on main.js
+[29/5/2021 -- 21:42]  restarted!
+[29/5/2021 -- 21:42]  restarted!
+[29/5/2021 -- 21:43]  Scripts ran on main.js
+[29/5/2021 -- 21:44]  restarted!
+[29/5/2021 -- 21:45]  restarted!
+[29/5/2021 -- 21:45]  Scripts ran on main.js
+[29/5/2021 -- 21:46]  restarted!
+[29/5/2021 -- 21:46]  restarted!
+[29/5/2021 -- 21:47]  restarted!
+[29/5/2021 -- 21:47]  Scripts ran on main.js
+[29/5/2021 -- 21:51]  restarted!
+[29/5/2021 -- 21:51]  restarted!
+[29/5/2021 -- 21:53]  restarted!
+[29/5/2021 -- 21:55]  restarted!
+[29/5/2021 -- 21:55]  Scripts ran on main.js
+[29/5/2021 -- 21:55]  Scripts ran on main.js
+[29/5/2021 -- 22:11]  restarted!
+[29/5/2021 -- 22:12]  restarted!
+[29/5/2021 -- 22:12]  restarted!
+[29/5/2021 -- 22:13]  restarted!
+[29/5/2021 -- 22:15]  restarted!
+[29/5/2021 -- 22:16]  restarted!
+[29/5/2021 -- 22:18]  restarted!
+[29/5/2021 -- 22:18]  restarted!
+[29/5/2021 -- 22:20]  Scripts ran on main.js
+[29/5/2021 -- 22:22]  Scripts ran on main.js
+[29/5/2021 -- 22:24]  Scripts ran on main.js
+[29/5/2021 -- 22:24]  Scripts ran on main.js
+[30/5/2021 -- 11:18]  Scripts ran on main.js
+[30/5/2021 -- 11:19]  Scripts ran on main.js
+[30/5/2021 -- 11:20]  Scripts ran on main.js
+[30/5/2021 -- 11:22]  Scripts ran on main.js
+[30/5/2021 -- 11:33]  Scripts ran on main.js
+[30/5/2021 -- 11:34]  Scripts ran on main.js
+[30/5/2021 -- 11:34]  Scripts ran on main.js
+[30/5/2021 -- 11:35]  Scripts ran on main.js
+[30/5/2021 -- 11:43]  Scripts ran on main.js
+[30/5/2021 -- 11:53]  restarted!
+[30/5/2021 -- 11:55]  restarted!
+[30/5/2021 -- 11:55]  restarted!
+[30/5/2021 -- 11:56]  Scripts ran on main.js
+[30/5/2021 -- 16:16]  Info task started
+[30/5/2021 -- 16:20]  Scripts ran on main.js
+[30/5/2021 -- 16:46]  Scripts ran on main.js
+[30/5/2021 -- 16:50]  Scripts ran on main.js
+[30/5/2021 -- 16:51]  Scripts ran on main.js
+[30/5/2021 -- 16:54]  Scripts ran on main.js
+[30/5/2021 -- 16:55]  Scripts ran on main.js
+[30/5/2021 -- 16:56]  Scripts ran on main.js
+[30/5/2021 -- 16:58]  Scripts ran on main.js
+[30/5/2021 -- 16:59]  Scripts ran on main.js
+[30/5/2021 -- 17:10]  Scripts ran on main.js
+[30/5/2021 -- 17:12]  Scripts ran on main.js
+[30/5/2021 -- 17:15]  Scripts ran on main.js
+[30/5/2021 -- 17:16]  Sass ran on files
+[30/5/2021 -- 17:20]  Scripts ran on main.js
+[30/5/2021 -- 17:22]  Scripts ran on main.js
+[30/5/2021 -- 17:25]  Scripts ran on main.js
+[30/5/2021 -- 17:27]  Sass ran on files
+[30/5/2021 -- 17:28]  Sass ran on files
+[30/5/2021 -- 17:31]  Sass ran on files
+[30/5/2021 -- 17:37]  Sass ran on files
+[30/5/2021 -- 17:39]  Scripts ran on main.js
+[30/5/2021 -- 17:40]  Scripts ran on main.js
+[30/5/2021 -- 17:42]  Scripts ran on main.js
+[30/5/2021 -- 17:44]  Sass ran on files
+[30/5/2021 -- 17:44]  Info task started
+[30/5/2021 -- 17:47]  Scripts ran on main.js
+[30/5/2021 -- 17:48]  Sass ran on files
+[30/5/2021 -- 17:51]  Sass ran on files
+[30/5/2021 -- 17:51]  Sass ran on files
